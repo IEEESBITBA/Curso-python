@@ -5,5 +5,5 @@ Curso gratuito y abierto de Python, creado en colaboración con ASME-CEITBA-IEEE
 
 ## Modalidad
 * 4 clases de tres horas, una vez por semana.
-* Traigan laptop!
-* No se requiere conocimiento previo de la programacion!
+* ¡Traigan laptop!
+* ¡No se requiere conocimiento previo de la programacion!
