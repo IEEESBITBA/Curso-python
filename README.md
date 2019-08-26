@@ -1,4 +1,7 @@
-﻿# Curso introductorio de Python
+# ¡Link directo a las clases!
+http://bit.ly/2U6CEKY
+
+# Curso introductorio de Python
 Curso gratuito y abierto de Python, creado en colaboración con ASME-CEITBA-IEEE-TURING en el Instituto Tecnológico de Buenos Aires.
 
 <img src="./_assets/LogosOrganizaciones.jpeg" alt="Asociaciones estudiantiles" width="100%">
