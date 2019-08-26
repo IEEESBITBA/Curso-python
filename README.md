@@ -1,5 +1,5 @@
 # ¡Link directo a las clases!
-http://bit.ly/2U6CEKY
+<a href="http://bit.ly/2U6CEKY">Clase 1</a>
 
 # Curso introductorio de Python
 Curso gratuito y abierto de Python, creado en colaboración con ASME-CEITBA-IEEE-TURING en el Instituto Tecnológico de Buenos Aires.
