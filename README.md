@@ -7,7 +7,7 @@ Curso gratuito y abierto de Python, creado en colaboración con ASME-CEITBA-IEEE
 
 # Solucionarios
 - <a href="http://bit.ly/Clase1Soluciones">Clase 1 solucionario</a>
-
+- <a href="http://bit.ly/Clase2Soluciones">Clase 2 solucionario</a>
 # Organizaciones originales
 <img src="./_assets/todos.png" alt="Asociaciones estudiantiles fundadoras" width="75%">
 
