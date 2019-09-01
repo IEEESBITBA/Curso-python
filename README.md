@@ -4,7 +4,6 @@ Curso gratuito y abierto de Python, creado en colaboración con ASME-CEITBA-IEEE
 # ¡Clases!
 - <a href="http://bit.ly/2U6CEKY">Clase 1</a>
 - <a href="http://bit.ly/PythonClase2">Clase 2</a>
-- <a href="http://bit.ly/PythonClase3">Clase 3</a>
 
 # Solucionarios
 - <a href="http://bit.ly/Clase1Soluciones">Clase 1 solucionario</a>
