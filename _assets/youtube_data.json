@@ -1,0 +1,123 @@
+{
+    "columnHeaders": [
+        {
+            "columnType": "DIMENSION",
+            "dataType": "STRING",
+            "name": "day"
+        },
+        {
+            "columnType": "METRIC",
+            "dataType": "INTEGER",
+            "name": "estimatedMinutesWatched"
+        },
+        {
+            "columnType": "METRIC",
+            "dataType": "INTEGER",
+            "name": "views"
+        },
+        {
+            "columnType": "METRIC",
+            "dataType": "INTEGER",
+            "name": "likes"
+        },
+        {
+            "columnType": "METRIC",
+            "dataType": "INTEGER",
+            "name": "subscribersGained"
+        }
+    ],
+    "kind": "youtubeAnalytics#resultTable",
+    "rows": [
+        [
+            "2020-10-01",
+            26,
+            19,
+            0,
+            0
+        ],
+        [
+            "2020-10-02",
+            2,
+            14,
+            0,
+            0
+        ],
+        [
+            "2020-10-03",
+            120,
+            78,
+            0,
+            1
+        ],
+        [
+            "2020-10-04",
+            3280,
+            1203,
+            75,
+            88
+        ],
+        [
+            "2020-10-05",
+            2064,
+            747,
+            22,
+            44
+        ],
+        [
+            "2020-10-06",
+            2290,
+            824,
+            28,
+            26
+        ],
+        [
+            "2020-10-07",
+            2817,
+            950,
+            13,
+            20
+        ],
+        [
+            "2020-10-08",
+            4594,
+            1491,
+            9,
+            14
+        ],
+        [
+            "2020-10-09",
+            4238,
+            1254,
+            17,
+            19
+        ],
+        [
+            "2020-10-10",
+            31783,
+            3231,
+            126,
+            102
+        ],
+        [
+            "2020-10-11",
+            6233,
+            1529,
+            18,
+            22
+        ],
+        [
+            "2020-10-12",
+            4786,
+            1138,
+            9,
+            7
+        ],
+        [
+            "2020-10-13",
+            3977,
+            761,
+            17,
+            13
+        ]
+    ]
+}
