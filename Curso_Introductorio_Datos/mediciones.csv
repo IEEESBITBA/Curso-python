@@ -1,4 +1,4 @@
-#Digilent WaveForms Oscilloscope Acquisition
+ï»¿#Digilent WaveForms Oscilloscope Acquisition
 #Device Name: EExplorer
 #Serial Number: SN:210151AA5CFE
 #Date Time: 2020-09-08 00:42:59.235
@@ -15,7 +15,7 @@
 #Amplitude: 10 V
 #Offset: 0 V
 #Symmetry: 50 %
-#Phase: 0 °
+#Phase: 0
 
 Time (s),Channel 1 (V),Channel 2 (V)
 -0.000102385,2.924948443,-2.535673811
